@@ -1,4 +1,4 @@
-/test
-/nbproject
+test/
+nbproject/
 build
 manifest.mf
